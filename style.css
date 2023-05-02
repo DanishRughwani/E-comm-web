@@ -134,7 +134,7 @@ header{
 .featured{
     width:100%;
     height:50vh;
-    background:linear-gradient(to right,rgba(0,0,0,0.8)20%,rgba(255,255,255,0.2)) ,url('file:///C:/Users/rughw/OneDrive/Desktop/e%20comm%20img/cover_5dd0e6e1-5648-4adb-8254-7578f1a09154_grande.webp');
+    background:linear-gradient(to right,rgba(0,0,0,0.8)20%,rgba(255,255,255,0.2)) ,url('cover.jpg');
     background-repeat: no-repeat;
     background-size :auto;
     background-position:top;
